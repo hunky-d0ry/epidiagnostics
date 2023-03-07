@@ -14,7 +14,7 @@ profile:
   href: '/members/pisanic'
   address: >
         Institute for NanoBioTechnology<br />
-        Shaffer 200E<br />
+        Shaffer 200D<br />
         3400 N Charles St<br />        
         Baltimore, MD 21218
 

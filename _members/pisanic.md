@@ -27,7 +27,7 @@ profile:
     orcid: 0000-0001-5796-0836
     address: >
         Institute for NanoBioTechnology<br />
-        Shaffer 200E<br />
+        Shaffer 200D<br />
         3400 N Charles St<br />        
         Baltimore, MD 21218
 social: true  # includes social icons at the bottom of the page        
