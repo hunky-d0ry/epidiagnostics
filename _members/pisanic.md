@@ -22,7 +22,7 @@ profile:
     logos: true
     image: prof_pic_tall.png
     email: tpisanic@jhu.edu
-    phone: +1 619 892 2567
+    phone: +1 410 516 1135
     twitter: epidiagnostics
     orcid: 0000-0001-5796-0836
     address: >
