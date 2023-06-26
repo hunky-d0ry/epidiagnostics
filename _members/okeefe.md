@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Postdoctoral Researchers
-group_rank: 2
+group_rank: 3
 team_collaborator: true
 
 title: Christine O'Keefe, PhD

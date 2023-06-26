@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Postdoctoral Researchers
+group: Senior Scientists
 group_rank: 2
 
 title: Bradley Downs, PhD
@@ -10,14 +10,14 @@ lastname: Downs
 publications: 'author^=*Downs'
 
 teaser: >
-    I am a postdoctoral researcher working in the Epidiagnostics Group. My research interests include the investigation of DNA methylation alterations in tumors and the development of innovative technologies for liquid biopsies.
+    I am a researcher working in the Epidiagnostics Group. My research interests include the investigation of DNA methylation alterations in tumors and the development of innovative technologies for liquid biopsies.
 
 profile:
     name: Bradley Downs, PhD
-    position: Postdoctoral Researcher at INBT (PI&#58; Pisanic)
+    position: Senior Research Specialist at INBT (PI&#58; Pisanic)
     align: right
     image: brad-profile.jpg
-    role: Postdoctoral Researcher
+    role: Senior Scientist
     orcid: 0000-0001-6156-510X
     website: 
     email: bdowns4@jhmi.edu
